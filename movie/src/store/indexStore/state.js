@@ -1,0 +1,24 @@
+export const state = {
+    tabbarData:[
+        {
+            icon:"wap-home-o",
+            name:"home",
+            title:"首页"
+        },
+        {
+            icon:"coupon-o",
+            name:"movie",
+            title:"购票"
+        },
+        {
+            icon:"share",
+            name:"find",
+            title:"发现"
+        },
+        {
+            icon:"contact",
+            name:"mine",
+            title:"我的"
+        }
+    ]
+}
