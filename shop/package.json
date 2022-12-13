@@ -10,7 +10,7 @@
   "dependencies": {
     "animate.css": "^4.1.0",
     "core-js": "^3.6.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "lib-flexible": "^0.3.2",
     "postcss-pxtorem": "^5.1.1",
